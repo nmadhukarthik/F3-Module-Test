@@ -1,0 +1,39 @@
+*
+{
+    background-color: black;
+    color: white;
+    margin: 2px;
+    padding: 2px;
+}
+
+/* #container
+{
+    background-color: black;
+    color: white;
+    align-items: center;
+    margin: auto;
+} */
+
+input
+{
+    width: 50%;
+    padding: 5px;
+    border: 1px solid white;
+    color: white;
+
+}
+
+
+.btn
+{
+    width: 20%;
+    padding: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+
+table
+{
+    width: 100%;
+}
